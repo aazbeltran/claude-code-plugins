@@ -1,0 +1,30 @@
+{
+  "name": "lxdb-plugins",
+  "owner": {
+    "name": "lxdb",
+    "email": "contact@github.com"
+  },
+  "metadata": {
+    "description": "A curated collection of Claude Code plugins for enhanced AI assistance",
+    "version": "1.0.0",
+    "pluginRoot": "."
+  },
+  "plugins": [
+    {
+      "name": "testing",
+      "source": "./plugins/testing",
+      "description": "Expert guidance on software testing strategies, methodologies, and best practices. Provides language-agnostic advice for designing test strategies, choosing appropriate test levels (unit, integration, E2E), applying methodologies (TDD, BDD), optimizing CI/CD pipelines, and testing legacy code.",
+      "version": "1.0.0",
+      "author": {
+        "name": "lxdb"
+      },
+      "homepage": "https://github.com/aazbeltran/claude-code-plugins",
+      "repository": "https://github.com/aazbeltran/claude-code-plugins",
+      "license": "MIT",
+      "keywords": ["testing", "tdd", "bdd", "quality-assurance", "ci-cd", "best-practices"],
+      "category": "development",
+      "agents": ["SKILL.md"],
+      "strict": false
+    }
+  ]
+}

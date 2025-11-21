@@ -1,0 +1,14 @@
+{
+  "name": "testing",
+  "description": "Expert guidance on software testing strategies, methodologies, and best practices. Provides language-agnostic advice for designing test strategies, choosing appropriate test levels (unit, integration, E2E), applying methodologies (TDD, BDD), optimizing CI/CD pipelines, and testing legacy code. Use when designing test strategies, deciding between testing approaches, refactoring tests, or optimizing test suites.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lxdb"
+  },
+  "homepage": "https://github.com/aazbeltran/claude-code-plugins",
+  "repository": "https://github.com/aazbeltran/claude-code-plugins",
+  "license": "MIT",
+  "keywords": ["testing", "tdd", "bdd", "quality-assurance", "ci-cd", "best-practices", "unit-testing", "integration-testing", "e2e-testing"],
+  "category": "development",
+  "agents": ["SKILL.md"]
+}
