@@ -10,5 +10,5 @@
   "license": "MIT",
   "keywords": ["testing", "tdd", "bdd", "quality-assurance", "ci-cd", "best-practices", "unit-testing", "integration-testing", "e2e-testing"],
   "category": "development",
-  "agents": ["SKILL.md"]
+  "skills": ["./" ]
 }
