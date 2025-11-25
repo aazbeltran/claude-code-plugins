@@ -23,7 +23,7 @@
       "license": "MIT",
       "keywords": ["testing", "tdd", "bdd", "quality-assurance", "ci-cd", "best-practices"],
       "category": "development",
-      "agents": ["./SKILL.md"],
+      "skills": ["./" ],
       "strict": false
     }
   ]
